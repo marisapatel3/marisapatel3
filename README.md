@@ -3,7 +3,7 @@
 -->
 
 ## Hi!👋
-My name is Marisa, and I'm a 4th year Electrical Engineering student at McMaster University. 
+My name is Marisa, and I'm an Electrical Engineering graduate from McMaster University. 
 
 - Website: https://main--marisapatel.netlify.app/
 - LinkedIn: https://linkedin.com/in/MarisaPatel03
