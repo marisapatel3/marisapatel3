@@ -7,4 +7,3 @@ My name is Marisa, and I'm an Electrical Engineering graduate from McMaster Univ
 
 - Website: https://marisapatel3.github.io/Portfolio/
 - LinkedIn: https://linkedin.com/in/MarisaPatel03
-- Email: marisap0231@gmail.com
